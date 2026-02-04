@@ -1,8 +1,9 @@
-# 👋 Hi, I'm Simon from Group Van Vooren
+# 👋 Hi, I'm Simon from **Group Van Vooren**  
+**Department:** Terra Engineering & Consultancy nv  
+**Role:** Software Developer  
 
-I’m a passionate developer with expertise in **.NET**, **JavaScript**, **SQL** and more. 
+I’m a passionate software developer with experience in **.NET, JavaScript, SQL**, and more. I focus on building **scalable, maintainable solutions** for both frontend and backend development, helping to deliver high-quality software for real-world engineering challenges.
 
-I specialize in creating scalable, maintainable solutions for both frontend and backend development.
 
 ## 💻 **Languages & Technologies**:
 
